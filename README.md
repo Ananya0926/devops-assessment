@@ -1,4 +1,4 @@
-# IT Vedant DevOps Assessment
+# IT DevOps Assessment
 
 ## Overview
 
